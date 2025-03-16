@@ -29,7 +29,7 @@ Want to build a simple corporate website in WordPress without using any plugins?
 💡 Need Help with Your WordPress Website?
 I offer custom WordPress development services to create stunning, fast, and secure websites. Whether it's a simple business site, eCommerce store, or custom theme, I can help!
 
-📩 Contact Me: digitalkreasi.com
+📩 Contact Me: [Digital Kreasi](https://digitalkreasi.com)
 🚀 Let’s build your dream website today!
 
 👉 Watch now and start your WordPress journey! 💻✨
