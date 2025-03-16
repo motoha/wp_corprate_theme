@@ -1,0 +1,36 @@
+/* Submenu styles */
+.sub-menu {
+    @apply hidden bg-white shadow-lg absolute top-full left-0 mt-2 z-10;
+}
+
+.dropdown:hover > .sub-menu {
+    @apply block; /* Show submenu on hover */
+}
+
+.swiper-container {
+    width: 100%;
+    height: auto;
+  }
+  
+  .swiper-slide {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img,
+  .swiper-slide video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .swiper-pagination-bullet {
+    background-color: #fff;
+    opacity: 0.6;
+  }
+  
+  .swiper-pagination-bullet-active {
+    opacity: 1;
+  }
